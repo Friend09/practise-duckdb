@@ -1,0 +1,13 @@
+ipykernel
+# duckdb==v0.9.2
+duckdb
+duckdb-engine
+pandas
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-openai
+sqlalchemy
+openai
