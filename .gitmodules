@@ -1,3 +1,6 @@
 [submodule "ref_duckdb_tutorial"]
 	path = ref_duckdb_tutorial
 	url = https://github.com/mehd-io/duckdb-playground-tutorial
+[submodule "ref_book_manning_examples"]
+	path = ref_book_manning_examples
+	url = https://github.com/duckdb-in-action/examples

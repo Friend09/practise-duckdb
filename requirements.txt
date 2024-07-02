@@ -11,3 +11,6 @@ langchain-experimental
 langchain-openai
 sqlalchemy
 openai
+pyarrow
+fastparquet
+polars
