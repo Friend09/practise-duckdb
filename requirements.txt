@@ -2,6 +2,7 @@ ipykernel
 # duckdb==v0.9.2
 duckdb
 duckdb-engine
+geopandas
 pandas
 python-dotenv
 langchain
@@ -9,9 +10,12 @@ langchain-core
 langchain-community
 langchain-experimental
 langchain-openai
+leafmap
+mapclassify
 sqlalchemy
 openai
 pyarrow
 fastparquet
 polars
 folium
+shapely
