@@ -19,3 +19,4 @@ fastparquet
 polars
 folium
 shapely
+seaborn
