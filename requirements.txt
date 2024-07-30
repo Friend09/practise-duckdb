@@ -13,6 +13,7 @@ langchain-experimental
 langchain-openai
 leafmap
 mapclassify
+mysqlclient
 sqlalchemy
 openai
 pyarrow
